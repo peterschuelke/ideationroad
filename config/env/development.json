@@ -1,7 +1,7 @@
 {
-    "db": "mongodb://localhost/mean-dev",
+    "db": "mongodb://localhost/idroad-dev",
     "app": {
-        "name": "MEAN - A Modern Stack - Development"
+        "name": "Ideation Road"
     },
     "facebook": {
         "clientID": "APP_ID",
