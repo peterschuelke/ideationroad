@@ -1,0 +1,31 @@
+/**
+ * SPRITES
+ * use sprites like this:
+ * @include sprites-sprite(
+ *   [$dimensions: include dimensions in output?]: true/false,
+ *   [$offset-x: offset from left of sprite image]: 10px,
+ *   [$offset-y: offset from top of sprite image]: 10px
+ * );
+**/
+
+// sets the whitespace around sprites
+$sprites-spacing: 25px;
+
+// defaults to including the sprite dimensions
+$sprites-sprite-dimensions: true;
+
+// set per-sprite customizations here
+//$sprites-down-position: 100%; // set specific sprite to right side of spritesheet
+
+// MAP NAME: if folder is "sprites" then sprite-map name is automatically $sprites-sprites
+
+/**
+ * 1. Spriting
+ *
+ * Below is a masive selector pointing at the site sprite file. Compass handles
+ * all smart spriting.
+ */
+//@import "sprites/*.png";
+
+// $sprites-map: sprite-map("sprites/*.png");
+

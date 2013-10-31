@@ -1,0 +1,81 @@
+$default-border-radius: 8px;
+
+// COLORS - Backgorund
+$color-bg-base: #0d0d0d; // base background color for site
+$color-bg-bars: lighten($color-bg-base, 80%); // background for bars like the promo / newsletter bar
+$color-bg-footer: lighten($color-bg-base, 80%); // background for footer
+$color-bg-tabs: lighten($color-bg-base, 80%); // background for cart/flags/login/etc dropdows
+$color-bg-inputs: #1d1d1d;
+
+// COLOR - TEXT
+$color-text-base: #a8a8a8;
+$color-title: lighten($color-text-base, 80%); // news titles etx
+$color-text-content: $color-text-base; // text main
+$color-text-footer: lighten($color-text-base, 80%);
+$color-text-footer-nav: lighten($color-text-base, 50%);
+$color-text-input: $color-text-base;
+$color-neon-section-glow: #d13a25;
+//$color-neon-text: lighten($color-neon-text-glow, 11%);
+$color-text-news: #fff;
+$color-site-title: #fff9df;
+
+// COLOR - LINKS
+$color-links: lighten($color-text-base, 25%); // links in main content
+$color-links-hover: lighten($color-text-base, 100%); // links hover in main content
+$color-links-bright: #e7a41d;
+$color-links-bright-hover: lighten($color-links-bright, 20%);
+
+// COLORS - Backgorund RGBA
+$color-bg-news-overlay: rgba(0,0,0,0.5); // content background
+
+//COLORS - borders
+$color-events-separator: darken($color-text-base, 34%);
+$color-panel-separator: lighten($color-bg-base, 15%);
+$color-light-outline: #926957;
+$color-landing-border: rgba(173,141,87, .6);
+
+//COLORS - controls
+$control-arrow-small: #777777;
+
+// ELEMENT - sticky nav
+$sticky-height: 200px;
+$sticky-height-mobile: 35px;
+
+// ELEMENT - social icons
+$social-networks: facebook, twitter, youtube, itunes;
+
+// BREAKPOINTS
+$breakpoint-600-size: emCalc(600);
+$breakpoint-600: "only screen and (min-width: #{$breakpoint-600-size})";
+$breakpoint-800-size: emCalc(800);
+$breakpoint-800: "only screen and (min-width: #{$breakpoint-800-size})";
+$breakpoint-900-size: emCalc(900);
+$breakpoint-900: "only screen and (min-width: #{$breakpoint-900-size})";
+$breakpoint-1000-size: emCalc(1000);
+$breakpoint-1000: "only screen and (min-width: #{$breakpoint-1000-size})";
+$breakpoint-1220-size: emCalc(1220);
+$breakpoint-1220: "only screen and (min-width: #{$breakpoint-1220-size})";
+
+///
+ // Fonts
+ // http://blog.grayghostvisuals.com/compass/font-face-helper/
+ ///
+//@include font-face("futura_bqregular", font-files("futurabq/futurabq-boldoutline.woff", "futurabq/futurabq-boldoutline.ttf", "futurabq/futurabq-boldoutline.svg"), "futurabq/futurabq-boldoutline.eot", normal, normal);
+//@include font-face("open_sansextrabold", font-files("open-sans/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.woff", "open-sans/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.ttf", "open-sans/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.svg"), "open-sans/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.eot", normal, normal);
+//@include font-face("open_sansbold", font-files("open-sans/opensans_bold_macroman/OpenSans-Bold-webfont.woff", "open-sans/opensans_bold_macroman/OpenSans-Bold-webfont.ttf", "open-sans/opensans_bold_macroman/OpenSans-Bold-webfont.svg"), "open-sans/opensans_bold_macroman/OpenSans-Bold-webfont.eot", normal, normal);
+//@include font-face("open_sanslight", font-files("open-sans/opensans_light_macroman/OpenSans-Light-webfont.woff", "open-sans/opensans_light_macroman/OpenSans-Light-webfont.ttf", "open-sans/opensans_light_macroman/OpenSans-Light-webfont.svg"), "open-sans/opensans_light_macroman/OpenSans-Light-webfont.eot", normal, normal);
+//@include font-face("open_sansregular", font-files("open-sans/opensans_regular_macroman/OpenSans-Regular-webfont.woff", "open-sans/opensans_regular_macroman/OpenSans-Regular-webfont.ttf", "open-sans/opensans_regular_macroman/OpenSans-Regular-webfont.svg"), "open-sans/opensans_regular_macroman/OpenSans-Regular-webfont.eot", normal, normal);
+//@include font-face("davidbecker", font-files("davidbecker/divadbeckeroutline-bold-webfont.woff", "davidbecker/divadbeckeroutline-bold-webfont.ttf", "davidbecker/divadbeckeroutline-bold-webfont.svg"), "davidbecker/divadbeckeroutline-bold-webfont.eot", normal, normal);
+
+//FUTURA PACK
+@include font-face("Futura W01 Light", font-files("futura-com/e80a3257-e0b2-4f7c-b4e8-0167c9adb7c0.woff","futura-com/5426d3ca-532d-4e71-a700-0a22917df569.ttf","futura-com/67fb5232-0944-4965-8594-ed2972b84950.svg#67fb5232-0944-4965-8594-ed2972b84950"),"futura-com/2c660b2f-8645-4b31-89fe-1c017eeb5e85.eot?#iefix", normal, normal);
+@include font-face("Futura W01 Medium",font-files("futura-com/1b696b29-a6bd-4411-a50f-37fd8a209b36.woff", "futura-com/a3931c31-5998-4dbd-b7d5-d310e4ed3d60.ttf","futura-com/6779412d-2ea7-4f1a-acfd-f6a527baaee7.svg#6779412d-2ea7-4f1a-acfd-f6a527baaee7"),"futura-com/f0052336-792e-4fcf-8750-fe6d7d5dccba.eot?#iefix", normal, normal);
+@include font-face("Futura W01 Bold", font-files("futura-com/2a65cbfc-5071-4b4d-bfc2-e052bb091ee2.woff", "futura-com/812f781d-aa66-47a1-b6a2-7941effc1527.ttf", "futura-com/2a371030-ff67-40ac-8307-082c1fccf151.svg#2a371030-ff67-40ac-8307-082c1fccf151"), "futura-com/3b3d00eb-6d89-47ec-83ee-48276a47ad94.eot?#iefix", normal, normal);
+@include font-face("Futura W01 ExtraBold", font-files("futura-com/71412249-2d57-471a-a4d5-981114297382.woff", "futura-com/8ccb8a63-e876-4780-a50f-bcc566888d2a.ttf", "futura-com/91e409d1-261c-43dd-8ab7-32f46c395b1c.svg#91e409d1-261c-43dd-8ab7-32f46c395b1c"), "futura-com/e516390d-3788-4c01-aa7c-b3e02513fed3.eot?#iefix", normal, normal);
+@include font-face("FuturaDW01-PosterOutlnX", font-files("futura-com/5126e05f-b3dd-44ad-8b33-d25708514226.woff", "futura-com/4794618d-c709-4ded-8432-93e917638b35.ttf", "futura-com/26137363-d3c4-4505-abe2-dc83bf6b46ff.svg#26137363-d3c4-4505-abe2-dc83bf6b46ff"), "futura-com/c26f6986-2ab7-431d-a2ca-033c56f88b56.eot?#iefix", normal, normal);
+
+$font-header: 'FuturaDW01-PosterOutlnX', arial, sans-serif;
+$font-base: 'Futura W01 Medium', arial, sans-serif;
+$font-bold: 'Futura W01 Bold', arial, sans-serif;
+$font-light: 'Futura W01 Light', arial, sans-serif;
+$font-extrabold: 'Futura W01 ExtraBold', arial, sans-serif;

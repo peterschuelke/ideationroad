@@ -37,7 +37,10 @@
     "bower": "latest",
     "grunt": "latest",
     "grunt-cli": "latest",
-    "nodemailer": "~0.5.5"
+    "nodemailer": "~0.5.5",
+    "grunt-contrib-compass": "~0.6.0",
+    "connect-livereload": "~0.3.0",
+    "load-grunt-tasks": "~0.2.0"
   },
   "devDependencies": {
     "supertest": "latest",

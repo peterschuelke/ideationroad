@@ -53,6 +53,7 @@ exports.create = function(req, res) {
     var user = new User(req.body);
 
     user.provider = 'local';
+    user.role = 'authenticated';
     user.save(function(err) {
         if (err) {
             return res.render('users/signup', {

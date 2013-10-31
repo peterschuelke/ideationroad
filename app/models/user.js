@@ -18,6 +18,7 @@ var UserSchema = new Schema({
     provider: String,
     hashed_password: String,
     salt: String,
+    role: String,
     facebook: {},
     twitter: {},
     github: {},

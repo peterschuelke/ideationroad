@@ -1,0 +1,61 @@
+@import "compass";
+
+@import "settings-foundation"; // Foundation Settings
+@import "settings-idroad"; // KoL settings
+
+// Comment out this import if you don't want to use normalize
+@import "normalize";
+
+// spriting
+@import "settings-sprites"; // import compass sprites
+
+// Comment out this import if you are customizing you imports below
+// @import "foundation";
+
+// and uncommenting what you want below. You must uncomment the following if customizing
+@import "foundation/components/global";
+@import "foundation/components/grid";
+@import "foundation/components/visibility";
+@import "foundation/components/block-grid";
+// @import "foundation/components/type";
+// @import "foundation/components/buttons";
+// @import "foundation/components/forms";
+// @import "foundation/components/custom-forms";
+// @import "foundation/components/button-groups";
+// @import "foundation/components/dropdown-buttons";
+// @import "foundation/components/split-buttons";
+@import "foundation/components/flex-video";
+// @import "foundation/components/section";
+// @import "foundation/components/top-bar";
+// @import "foundation/components/orbit";
+@import "foundation/components/reveal";
+// @import "foundation/components/joyride";
+@import "foundation/components/clearing";
+// @import "foundation/components/alert-boxes";
+// @import "foundation/components/breadcrumbs";
+// @import "foundation/components/keystrokes";
+// @import "foundation/components/labels";
+// @import "foundation/components/inline-lists";
+@import "foundation/components/pagination";
+// @import "foundation/components/panels";
+// @import "foundation/components/pricing-tables";
+// @import "foundation/components/progress-bars";
+// @import "foundation/components/side-nav";
+// @import "foundation/components/sub-nav";
+// @import "foundation/components/switch";
+// @import "foundation/components/magellan";
+// @import "foundation/components/tables";
+// @import "foundation/components/thumbs";
+// @import "foundation/components/tooltips";
+// @import "foundation/components/dropdown";
+
+@import "partials/mixins"; // helpful custom mixins
+
+// start smacss organization
+@import "partials/base"; // smacss.com/book/type-base
+@import "partials/layout"; // smacss.com/book/type-layout
+@import "partials/components"; // smacss.com/book/type-module
+@import "partials/state"; // smacss.com/book/type-state
+@import "partials/skin"; // smacss.com/book/type-theme
+@import "partials/flexslider"; // smacss.com/book/type-theme
+// end smacss organization

@@ -1,0 +1,40 @@
+/*
+ * @file
+ * _base.scss
+ *
+ * Base generic element styles
+ * http://smacss.com/book/type-base
+ */
+body {
+	//@include background(image-url("site-bg.jpg"));
+	background-color: $color-bg-base;
+  color: $color-text-base;
+  font-family: $font-base;
+  form {
+    margin: 0;
+    padding: 0;
+	}
+}
+
+input {
+  //@include border-radius($default-border-radius);
+	background-color: $color-bg-inputs;
+	color: $color-text-input;
+	border: none;
+	font-size: emCalc(12px);
+	font-family: $font-light;
+	padding: 10px 18px;
+}
+
+a, a.link, a.visited {
+    color: $color-links;
+    text-decoration: none;
+    &:hover {
+		color: $color-links-hover;
+    }
+}
+
+ul {
+	list-style-type: none;
+}
+

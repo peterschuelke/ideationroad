@@ -1,0 +1,11 @@
+/*
+ * @file
+ * _layout.scss
+ *
+ * Major page layout styles
+ * http://smacss.com/book/type-layout
+ */
+.clearfix{
+  @include clearfix;
+}
+
