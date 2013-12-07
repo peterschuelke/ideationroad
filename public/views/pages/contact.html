@@ -1,3 +1,49 @@
-<section data-ng-controller="IndexController">
-  <h1>This is the contact page</h1>
+<section class="contact" data-ng-controller="ContactController">
+  <div class="page-title">
+    <h2>Contact</h2>
+    <div class="arrow-down">
+      <img src="images/icons/arrow_orange_down.png">
+    </div>
+  </div>
+  <div class="bg-medium">
+    <div class ="row first">
+      <div class="columns small-10">
+        <h3 class="row-header">How can we help?</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel augue pellentesque, vestibulum mauris  luctus ante. Duis vitae ornare libero. Maecenas imperdiet tincidunt tortor, dictum imperdiet duic.</p>
+      </div>
+    </div>
+    <div class ="row last">
+      <div class="columns small-4 contact-links">
+        <h3>Contact Us</h3>
+        <a class="phone" href=""><img class="icon" src="/images/icons/phone.svg">+1 503-893-5556</a>
+        <a class="email" href=""><img class="icon" src="/images/icons/mail.svg">info@ideationroad.com</a>
+      </div>
+      <div class="columns small-7 small-offset-1 contact-form">
+        <form name="form">
+          <div class="form-division first">
+            <input type="text" ng-model="user.name" name="name" placeholder="Your Name" required />
+
+            <input type="text" ng-model="user.business" name="business" placeholder="Your Business" />
+
+            <input type="text" ng-model="user.title" name="title" placeholder="Your Title" />
+
+            <input type="text" ng-model="user.phone" name="phone" placeholder="Your Phone" />
+
+            <input type="email" name="email" ng-model="user.email" placeholder="Your Email Address" required/>
+            <div class="captcha">
+              <p>Please answer the following:</p>
+              <captcha class="captcha-input"valid="captchaValid"></captcha>
+              <!-- <div>valid: {{captchaValid}}</div> -->
+            </div>
+          </div>
+          <div class="form-division last">
+
+          <textarea name="message" ng-model="user.message" rows="13" cols="24">Your Message</textarea>
+
+          <input type="submit" value="Submit">
+        </div>
+        </form>
+      </div>
+    </div>
+  </div>
 </section>

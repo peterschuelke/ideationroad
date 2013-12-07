@@ -1,6 +1,27 @@
-<section data-ng-controller="ArticlesController" data-ng-init="findOne()">
-	<span>{{article.created | date:'medium'}}</span> /
-	<span>{{article.user.name}}</span>
-	<h2>{{article.title}} <a data-ng-show="global.user.role == 'administrator'" href="/#!/blog/{{article._id}}/edit">edit</a></h2>
-	<div>{{article.content}}</div>
+<section class="blog-post" data-ng-controller="ArticlesController" data-ng-init="findOne()">
+  <div class="page-title">
+    <h2>Blog</h2>
+    <div class="arrow-down">
+      <img src="images/icons/arrow_orange_down.png">
+    </div>
+  </div>
+  <div class="bg-medium">
+    <div class ="row first">
+      <div class="columns small-10">
+        <div class="article-post">
+          <div class="article-header">
+            <h2 class="article-title">{{article.title}}</h2>
+            <div class="article-date">
+              <img src="/images/icons/clock.svg">
+              <span>{{article.created | date:'short'}}</span>
+            </div>
+          </div>
+          <div class="contextual-links">
+            <a href="/#!/blog/{{article._id}}/edit">edit</a>
+          </div>
+          <div class="article-body"><p>{{article.content}}</p></div>
+        </div>
+        </div>
+    </div>
+  </div>
 </section>

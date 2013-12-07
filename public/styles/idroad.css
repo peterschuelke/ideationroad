@@ -1,39 +1,79 @@
 @font-face {
-  font-family: "Futura W01 Light";
-  src: url('/fonts/futura-com/2c660b2f-8645-4b31-89fe-1c017eeb5e85.eot?#iefix');
-  src: url('/fonts/futura-com/2c660b2f-8645-4b31-89fe-1c017eeb5e85.eot?#iefix?#iefix') format('eot'), url('/fonts/futura-com/e80a3257-e0b2-4f7c-b4e8-0167c9adb7c0.woff') format('woff'), url('/fonts/futura-com/5426d3ca-532d-4e71-a700-0a22917df569.ttf') format('truetype'), url('/fonts/futura-com/67fb5232-0944-4965-8594-ed2972b84950.svg#67fb5232-0944-4965-8594-ed2972b84950') format('svg');
+  font-family: "Raleway Regular";
+  src: url('/fonts/raleway/raleway-regular-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-regular-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-regular-webfont.woff') format('woff'), url('/fonts/raleway/raleway-regular-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-regular-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-regular-webfont.eot') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Futura W01 Medium";
-  src: url('/fonts/futura-com/f0052336-792e-4fcf-8750-fe6d7d5dccba.eot?#iefix');
-  src: url('/fonts/futura-com/f0052336-792e-4fcf-8750-fe6d7d5dccba.eot?#iefix?#iefix') format('eot'), url('/fonts/futura-com/1b696b29-a6bd-4411-a50f-37fd8a209b36.woff') format('woff'), url('/fonts/futura-com/a3931c31-5998-4dbd-b7d5-d310e4ed3d60.ttf') format('truetype'), url('/fonts/futura-com/6779412d-2ea7-4f1a-acfd-f6a527baaee7.svg#6779412d-2ea7-4f1a-acfd-f6a527baaee7') format('svg');
+  font-family: "Raleway Extra Light";
+  src: url('/fonts/raleway/raleway-extralight-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-extralight-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-extralight-webfont.woff') format('woff'), url('/fonts/raleway/raleway-extralight-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-extralight-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-extralight-webfont.eot') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Futura W01 Bold";
-  src: url('/fonts/futura-com/3b3d00eb-6d89-47ec-83ee-48276a47ad94.eot?#iefix');
-  src: url('/fonts/futura-com/3b3d00eb-6d89-47ec-83ee-48276a47ad94.eot?#iefix?#iefix') format('eot'), url('/fonts/futura-com/2a65cbfc-5071-4b4d-bfc2-e052bb091ee2.woff') format('woff'), url('/fonts/futura-com/812f781d-aa66-47a1-b6a2-7941effc1527.ttf') format('truetype'), url('/fonts/futura-com/2a371030-ff67-40ac-8307-082c1fccf151.svg#2a371030-ff67-40ac-8307-082c1fccf151') format('svg');
+  font-family: "Raleway Light";
+  src: url('/fonts/raleway/raleway-light-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-light-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-light-webfont.woff') format('woff'), url('/fonts/raleway/raleway-light-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-light-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-light-webfont.eot') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Futura W01 ExtraBold";
-  src: url('/fonts/futura-com/e516390d-3788-4c01-aa7c-b3e02513fed3.eot?#iefix');
-  src: url('/fonts/futura-com/e516390d-3788-4c01-aa7c-b3e02513fed3.eot?#iefix?#iefix') format('eot'), url('/fonts/futura-com/71412249-2d57-471a-a4d5-981114297382.woff') format('woff'), url('/fonts/futura-com/8ccb8a63-e876-4780-a50f-bcc566888d2a.ttf') format('truetype'), url('/fonts/futura-com/91e409d1-261c-43dd-8ab7-32f46c395b1c.svg#91e409d1-261c-43dd-8ab7-32f46c395b1c') format('svg');
+  font-family: "Raleway Thin";
+  src: url('/fonts/raleway/raleway-thin-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-thin-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-thin-webfont.woff') format('woff'), url('/fonts/raleway/raleway-thin-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-thin-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-thin-webfont.eot') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "FuturaDW01-PosterOutlnX";
-  src: url('/fonts/futura-com/c26f6986-2ab7-431d-a2ca-033c56f88b56.eot?#iefix');
-  src: url('/fonts/futura-com/c26f6986-2ab7-431d-a2ca-033c56f88b56.eot?#iefix?#iefix') format('eot'), url('/fonts/futura-com/5126e05f-b3dd-44ad-8b33-d25708514226.woff') format('woff'), url('/fonts/futura-com/4794618d-c709-4ded-8432-93e917638b35.ttf') format('truetype'), url('/fonts/futura-com/26137363-d3c4-4505-abe2-dc83bf6b46ff.svg#26137363-d3c4-4505-abe2-dc83bf6b46ff') format('svg');
+  font-family: "Raleway Medium";
+  src: url('/fonts/raleway/raleway-medium-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-medium-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-medium-webfont.woff') format('woff'), url('/fonts/raleway/raleway-medium-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-medium-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-medium-webfont.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway Semi Bold";
+  src: url('/fonts/raleway/raleway-semibold-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-semibold-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-semibold-webfont.woff') format('woff'), url('/fonts/raleway/raleway-semibold-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-semibold-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-semibold-webfont.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway Bold";
+  src: url('/fonts/raleway/raleway-bold-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-bold-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-bold-webfont.woff') format('woff'), url('/fonts/raleway/raleway-bold-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-bold-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-bold-webfont.eot') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway Heavy";
+  src: url('/fonts/raleway/raleway-heavy-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-heavy-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-heavy-webfont.woff') format('woff'), url('/fonts/raleway/raleway-heavy-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-heavy-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-heavy-webfont.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway Extra Bold";
+  src: url('/fonts/raleway/raleway-extrabold-webfont.eot?#iefix');
+  src: url('/fonts/raleway/raleway-extrabold-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/raleway/raleway-extrabold-webfont.woff') format('woff'), url('/fonts/raleway/raleway-extrabold-webfont.ttf') format('truetype'), url('/fonts/raleway/raleway-extrabold-webfont.svg#ralewaybold') format('svg'), url('/fonts/raleway/raleway-extrabold-webfont.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Air Conditioner Regular";
+  src: url('/fonts/airconditioner/airconditioner-webfont.eot?#iefix');
+  src: url('/fonts/airconditioner/airconditioner-webfont.eot?#iefix?#iefix') format('eot'), url('/fonts/airconditioner/airconditioner-webfont.woff') format('woff'), url('/fonts/airconditioner/airconditioner-webfont.ttf') format('truetype'), url('/fonts/airconditioner/airconditioner-webfont.svg#ralewaybold') format('svg'), url('/fonts/airconditioner/airconditioner-webfont.eot') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -613,7 +653,7 @@ select {
   margin-right: auto;
   margin-top: 0;
   margin-bottom: 0;
-  max-width: 71.25em;
+  max-width: 60em;
   *zoom: 1;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003121}}
@@ -627,7 +667,8 @@ select {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003121}}
 .row.collapse > .column,
-.row.collapse > .columns {
+.row.collapse > .columns,
+.services .row.second .row.collapse > p {
   position: relative;
   padding-left: 0;
   padding-right: 0;
@@ -676,7 +717,8 @@ select {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003132}}
 .column,
-.columns {
+.columns,
+.services .row.second p {
   position: relative;
   padding-left: 0.9375em;
   padding-right: 0.9375em;
@@ -687,7 +729,8 @@ select {
 @media only screen {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003137}}
   .column,
-  .columns {
+  .columns,
+  .services .row.second p {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
@@ -731,7 +774,7 @@ select {
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003140}}
-  .small-7 {
+  .small-7, .services .row.second p {
     position: relative;
     width: 58.33333%;
   }
@@ -844,7 +887,8 @@ select {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003151}}
   .column.small-centered,
-  .columns.small-centered {
+  .columns.small-centered,
+  .services .row.second p.small-centered {
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -1153,7 +1197,8 @@ select {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003171}}
   .column.large-centered,
-  .columns.large-centered {
+  .columns.large-centered,
+  .services .row.second p.large-centered {
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -1162,7 +1207,8 @@ select {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003174}}
   .column.large-uncentered,
-  .columns.large-uncentered {
+  .columns.large-uncentered,
+  .services .row.second p.large-uncentered {
     margin-left: 0;
     margin-right: 0;
     float: left !important;
@@ -1170,7 +1216,8 @@ select {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003181}}
   .column.large-uncentered.opposite,
-  .columns.large-uncentered.opposite {
+  .columns.large-uncentered.opposite,
+  .services .row.second p.large-uncentered.opposite {
     float: right !important;
   }
 }
@@ -2095,7 +2142,9 @@ th.hide-for-touch {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_reveal\.scss}line{font-family:\0000362}}
 .reveal-modal .column,
-.reveal-modal .columns {
+.reveal-modal .columns,
+.reveal-modal .services .row.second p,
+.services .row.second .reveal-modal p {
   min-width: 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_reveal\.scss}line{font-family:\0000365}}
@@ -2448,7 +2497,7 @@ ul.pagination li {
   text-align: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000362}}
 .element-invisible {
   position: absolute !important;
   height: 1px;
@@ -2465,41 +2514,115 @@ ul.pagination li {
  * Base generic element styles
  * http://smacss.com/book/type-base
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\000038}}
-body {
-  background-color: #0d0d0d;
-  color: #a8a8a8;
-  font-family: "Futura W01 Medium", arial, sans-serif;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\000039}}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-family: "Raleway Bold", arial, sans-serif;
+  letter-spacing: 1px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000313}}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000315}}
+body {
+  background-color: #ededed;
+  color: #5d5d5d;
+  font-family: "Raleway Medium", arial, sans-serif;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000320}}
 body form {
   margin: 0;
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000326}}
 input {
-  background-color: #1d1d1d;
-  color: #a8a8a8;
-  border: none;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  border-radius: 8px;
+  background-color: #ededed;
+  color: #a7a7a7;
+  border: 1px solid #5d5d5d;
   font-size: 0.75em;
-  font-family: "Futura W01 Light", arial, sans-serif;
+  font-family: "Raleway Light", arial, sans-serif;
   padding: 10px 18px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000329}}
-a, a.link, a.visited {
-  color: #e8e8e8;
-  text-decoration: none;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000332}}
-a:hover, a.link:hover, a.visited:hover {
-  color: white;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000336}}
+p {
+  line-height: 1.5em;
+  font-size: 14px;
+  font-family: "Raleway Light", arial, sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000342}}
+a, a.link, a.visited {
+  color: #fca049;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000345}}
+a:hover, a.link:hover, a.visited:hover {
+  color: #cc833f;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000349}}
+strong, b {
+  font-family: "Raleway Bold", arial, sans-serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000353}}
 ul {
   list-style-type: none;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000356}}
+ul.horizontal {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  *zoom: 1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003121}}
+ul.horizontal:before, ul.horizontal:after {
+  content: " ";
+  display: table;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003122}}
+ul.horizontal:after {
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/lists\/_horizontal-list\.scss}line{font-family:\0000360}}
+ul.horizontal li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  white-space: nowrap;
+  display: inline;
+  float: left;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/lists\/_horizontal-list\.scss}line{font-family:\0000348}}
+ul.horizontal li:first-child, ul.horizontal li.first {
+  padding-left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/lists\/_horizontal-list\.scss}line{font-family:\0000349}}
+ul.horizontal li:last-child {
+  padding-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/lists\/_horizontal-list\.scss}line{font-family:\0000350}}
+ul.horizontal li.last {
+  padding-right: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000361}}
+.bg-light {
+  background: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_base\.scss}line{font-family:\0000364}}
+.bg-medium {
+  background: #ededed;
 }
 
 /*
@@ -2510,16 +2633,16 @@ ul {
  * http://smacss.com/book/type-layout
  */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_layout\.scss}line{font-family:\000038}}
-.clearfix {
+.clearfix, .services .row.second li {
   *zoom: 1;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003121}}
-.clearfix:before, .clearfix:after {
+.clearfix:before, .services .row.second li:before, .clearfix:after, .services .row.second li:after {
   content: " ";
   display: table;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/\.rvm\/gems\/ruby-1\.9\.3-p448\/gems\/zurb-foundation-4\.3\.2\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003122}}
-.clearfix:after {
+.clearfix:after, .services .row.second li:after {
   clear: both;
 }
 
@@ -2548,331 +2671,837 @@ ul {
  * http://smacss.com/book/type-theme
  *
  */
-/*
- * jQuery FlexSlider v2.2.0
- * http://www.woothemes.com/flexslider/
- *
- * Copyright 2012 WooThemes
- * Free to use under the GPLv2 license.
- * http://www.gnu.org/licenses/gpl-2.0.html
- *
- * Contributing author: Tyler Smith (@mbmufffin)
- */
-/* Browser Resets
-*********************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000318}}
-.flex-container a:active,
-.flexslider a:active,
-.flex-container a:focus,
-.flexslider a:focus {
-  outline: none;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000323}}
+.header,
+.header a,
+.header a:hover,
+.header a:visited {
+  color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000321}}
-.slides,
-.flex-control-nav,
-.flex-direction-nav {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000326}}
+body > header {
+  background: url("../images/backgrounds/header_noise.png"), url("../images/backgrounds/header_illus.png") center no-repeat, -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 150, color-stop(0%, #007295), color-stop(150%, #0094ad)), -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #0094ad), color-stop(100%, #007399)), #0094ad;
+  background: url("../images/backgrounds/header_noise.png"), url("../images/backgrounds/header_illus.png") center no-repeat, -webkit-radial-gradient(bottom center, #007295, #0094ad 150%), -webkit-linear-gradient(#0094ad, #007399), #0094ad;
+  background: url("../images/backgrounds/header_noise.png"), url("../images/backgrounds/header_illus.png") center no-repeat, -moz-radial-gradient(bottom center, #007295, #0094ad 150%), -moz-linear-gradient(#0094ad, #007399), #0094ad;
+  background: url("../images/backgrounds/header_noise.png"), url("../images/backgrounds/header_illus.png") center no-repeat, -o-radial-gradient(bottom center, #007295, #0094ad 150%), -o-linear-gradient(#0094ad, #007399), #0094ad;
+  background: url("../images/backgrounds/header_noise.png"), url("../images/backgrounds/header_illus.png") center no-repeat, radial-gradient(bottom center, #007295, #0094ad 150%), linear-gradient(#0094ad, #007399), #0094ad;
 }
 
-/* Icon Fonts
-*********************************/
-/* Font-face Icons */
-/* FlexSlider Necessary Styles
-*********************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000339}}
-.flexslider {
-  margin: 0;
-  padding: 0;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000340}}
-.flexslider .slides > li {
-  display: none;
-  -webkit-backface-visibility: hidden;
-}
-
-/* Hide the slides before the JS is loaded. Avoids image jumping */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000341}}
-.flexslider .slides img {
-  width: 100%;
-  display: block;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000342}}
-.flex-pauseplay span {
-  text-transform: capitalize;
-}
-
-/* Clearfix for the .slides element */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000345}}
-.slides:after {
-  content: "\0020";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  line-height: 0;
-  height: 0;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000346}}
-html[xmlns] .slides {
-  display: block;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000347}}
-* html .slides {
-  height: 1%;
-}
-
-/* No JavaScript Fallback */
-/* If you are not using another script, such as Modernizr, make sure you
- * include js that eliminates this class on page load */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000352}}
-.no-js .slides > li:first-child {
-  display: block;
-}
-
-/* FlexSlider Default Theme
-*********************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000356}}
-.flexslider {
-  margin: 0 0 60px;
-  background: #fff;
-  border: 4px solid #fff;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000329}}
+.home-page {
+  overflow: hidden;
   position: relative;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -o-border-radius: 4px;
-  border-radius: 4px;
-  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  -o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  zoom: 1;
+  margin-top: -3px;
+  padding-top: 3px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000334}}
+.home-page .arrow-down {
+  background: url("../images/backgrounds/header_noise.png"), #007399;
+  top: -13px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000357}}
-.flex-viewport {
-  max-height: 2000px;
-  -webkit-transition: all 1s ease;
-  -moz-transition: all 1s ease;
-  -o-transition: all 1s ease;
-  transition: all 1s ease;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000358}}
-.loading .flex-viewport {
-  max-height: 300px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000359}}
-.flexslider .slides {
-  zoom: 1;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000360}}
-.carousel li {
-  margin-right: 5px;
-}
-
-/* Direction Nav */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000363}}
-.flex-direction-nav {
-  *height: 0;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000364}}
-.flex-direction-nav a {
-  display: block;
-  width: 40px;
-  height: 40px;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  z-index: 10;
-  overflow: hidden;
-  opacity: 1;
-  cursor: pointer;
-  color: rgba(0, 0, 0, 0.8);
-  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
-  -webkit-transition: all .3s ease;
-  -moz-transition: all .3s ease;
-  transition: all .3s ease;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000381}}
-.flex-direction-nav .flex-prev {
-  left: 10px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000382}}
-.flex-direction-nav .flex-next {
-  right: 10px;
-  text-align: right;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000383}}
-.flexslider:hover .flex-prev {
-  opacity: 0.7;
-  left: 10px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000384}}
-.flexslider:hover .flex-next {
-  opacity: 0.7;
-  right: 10px;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000385}}
-.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {
-  opacity: 1;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000386}}
-.flex-direction-nav .flex-disabled {
-  opacity: 0 !important;
-  filter: alpha(opacity=0);
-  cursor: default;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000387}}
-.flex-direction-nav a:before {
-  font-family: "flexslider-icon";
-  font-size: 40px;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000341}}
+.nav li {
+  text-transform: uppercase;
+  margin: 20px;
   display: inline-block;
-  content: '\f001';
+  padding-bottom: 2px;
+  font-size: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000348}}
+.nav li:hover {
+  padding-bottom: 0px;
+  border-bottom: 2px solid white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000388}}
-.flex-direction-nav a.flex-next:before {
-  content: '\f002';
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000355}}
+.header {
+  color: white;
+  padding: 40px 0;
 }
-
-/* Pause/Play */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000391}}
-.flex-pauseplay a {
-  display: block;
-  width: 20px;
-  height: 20px;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000356}}
+.header h1 {
   position: absolute;
-  bottom: 5px;
-  left: 10px;
-  opacity: 0.8;
-  z-index: 10;
-  overflow: hidden;
-  cursor: pointer;
-  color: #000;
+  left: -9999px;
 }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000392}}
-.flex-pauseplay a:before {
-  font-family: "flexslider-icon";
-  font-size: 20px;
-  display: inline-block;
-  content: '\f004';
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000393}}
-.flex-pauseplay a:hover {
-  opacity: 1;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000394}}
-.flex-pauseplay a.flex-play:before {
-  content: '\f003';
-}
-
-/* Control Nav */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\0000397}}
-.flex-control-nav {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000362}}
+.header .columns, .header .services .row.second p, .services .row.second .header p {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003100}}
-.flex-control-nav li {
-  display: -moz-inline-stack;
-  display: inline-block;
-  vertical-align: middle;
-  *vertical-align: auto;
-  zoom: 1;
-  *display: inline;
-  margin: 3px;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000367}}
+.footer {
+  background-color: #252525;
+  padding: 40px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000370}}
+.footer a {
+  color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003104}}
-.flex-control-paging li a {
-  color: #a8a8a8;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  -o-border-radius: 5px;
-  border-radius: 5px;
-  width: 10px;
-  height: 10px;
-  border: 1px solid #a8a8a8;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000375}}
+.headline {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000377}}
+.headline h2 {
+  font-size: 28px;
+  margin: 0;
+  font-family: "Raleway Light", arial, sans-serif;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000381}}
+.headline h2 span {
   display: block;
-  overflow: hidden;
-  text-indent: -999px;
+  font-size: 44px;
+  line-height: 72px;
+  font-family: "Raleway Bold", arial, sans-serif;
+  letter-spacing: 1px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003113}}
-.flex-control-paging li a.flex-active {
-  background: #a8a8a8;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000389}}
+.headline p {
+  margin: 10px 0;
+  font-family: "Raleway Thin", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003116}}
-.flex-control-paging li a:hover {
-  border: 1px solid white;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\0000395}}
+.headline .button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #2e9e82;
+  color: white;
+  background: #3fc5a4;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  margin-top: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003118}}
-.flex-control-paging li a:hover.flex-active {
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003101}}
+.page-title {
+  position: relative;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003104}}
+.arrow-down {
+  position: absolute;
+  width: 54px;
+  height: 36px;
+  border-radius: 0 0 27px 27px;
+  background: white;
+  top: 52px;
+  left: 50%;
+  margin-left: -27px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003113}}
+.arrow-down img {
+  position: absolute;
+  top: 13px;
+  left: 12px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003120}}
+.align-center {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003126}}
+.incentive {
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003129}}
+.incentive .small-10 {
+  margin: 0 auto;
+  float: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003133}}
+.incentive .article {
+  color: #8b8b8b;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #e3e3e3;
+  background: white;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+  line-height: 1.5em;
+  padding: 48px 25px 28px 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000329}}
+.incentive .article h2,
+.incentive .article h3 {
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003137}}
+.incentive .article h3 {
+  font-size: 14px;
+  color: #5d5d5d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003141}}
+.incentive .article .incentive-icon {
+  position: relative;
+  height: 123px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000342}}
+.incentive .article .incentive-icon img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -61.5px;
+  margin-top: -61.5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003149}}
+.learn-more {
+  background-color: #fca049;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003151}}
+.learn-more h3 {
+  color: white;
+  line-height: 1.25em;
+  font-size: 26px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003158}}
+.learn-more .button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #173841;
+  color: white;
+  background: #265b6a;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  margin-bottom: 35px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003163}}
+.learn-more .logo-container {
+  position: relative;
+  height: 133px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  margin-top: -66.5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000342}}
+.learn-more .logo-container img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -120px;
+  margin-top: -66.5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003170}}
+.learn-more p {
+  font-family: "Raleway Thin", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003182}}
+.articles .article {
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #e3e3e3;
+  background: white;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+  line-height: 1.5em;
+  color: #8b8b8b;
+  text-align: left;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000329}}
+.articles .article h2,
+.articles .article h3 {
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003188}}
+.articles .article h2 {
+  font-size: 18px;
+  color: #5d5d5d;
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003193}}
+.articles .article .date {
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003198}}
+.articles .article .button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #fc8311;
+  color: white;
+  background: #fca049;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 5px 20px;
+  box-shadow: none;
+  font-size: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003205}}
+.articles .article .content {
+  margin-top: 0;
+  font-size: 14px;
+  font-family: "Raleway Light", arial, sans-serif;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003211}}
+.articles .read-all {
+  padding-left: 30px;
+  padding-top: 24px;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003215}}
+.articles .read-all a {
+  padding-right: 36px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003218}}
+.articles .read-all img {
+  position: absolute;
+  left: 144px;
+  top: 26px;
+  left: 144px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003228}}
+.philosophy {
+  margin-top: 90px;
+  background-color: white;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003234}}
+.philosophy h2 {
+  margin-top: 0;
+  line-height: 1.25em;
+  font-size: 24px;
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003241}}
+.philosophy .button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #fc8311;
+  color: white;
+  background: #fca049;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003245}}
+.philosophy .image-container {
+  position: absolute;
+  right: -130px;
+  top: -139px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003250}}
+.philosophy p {
+  font-family: "Raleway Light", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #8b8b8b;
+  margin-top: 15px;
+  margin-bottom: 40px;
+  line-height: 1.25em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003264}}
+.content .page-title {
+  padding: 18px 0;
   background: white;
 }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003124}}
-.flex-control-thumbs {
-  margin: 5px 0 0;
-  position: static;
-  overflow: hidden;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003267}}
+.content .page-title h2 {
+  text-transform: uppercase;
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-decoration: underline;
+  color: #fca049;
+  text-align: center;
+  margin: 8px 0 0 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003125}}
-.flex-control-thumbs li {
-  width: 25%;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003278}}
+.row-header {
+  line-height: 1.5em;
+  font-family: "Raleway Semi Bold", arial, sans-serif;
+  text-align: center;
+  width: 66%;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 50px;
+  padding-bottom: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003288}}
+.row-header:after {
+  content: "";
+  width: 80px;
+  height: 18px;
+  border-bottom: 2px solid #5d5d5d;
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  margin-left: -40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003301}}
+ul.dash li:before {
+  content: "-";
+  position: relative;
+  left: -5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003309}}
+.services .row {
+  padding: 80px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003311}}
+.services .row.first .columns, .services .row.first .row.second p, .services .row.second .row.first p {
+  float: none;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003314}}
+.services .row.first .columns p, .services .row.first .row.second p p, .services .row.second .row.first p p {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003317}}
+.services .row.first .columns .customer-progression, .services .row.first .row.second p .customer-progression, .services .row.second .row.first p .customer-progression {
+  margin-top: 36px;
+  border-radius: 5px;
+  color: white;
+  text-transform: uppercase;
+  background: #3fc5a4;
+  padding: 24px 60px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003324}}
+.services .row.first .columns .customer-progression li, .services .row.first .row.second p .customer-progression li, .services .row.second .row.first p .customer-progression li {
+  padding: 0;
+  margin-top: 6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003327}}
+.services .row.first .columns .customer-progression li img, .services .row.first .row.second p .customer-progression li img, .services .row.second .row.first p .customer-progression li img {
+  margin-top: -1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003330}}
+.services .row.first .columns .customer-progression li.first, .services .row.first .row.second p .customer-progression li.first, .services .row.second .row.first p .customer-progression li.first {
+  margin-top: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003332}}
+.services .row.first .columns .customer-progression li.first img, .services .row.first .row.second p .customer-progression li.first img, .services .row.second .row.first p .customer-progression li.first img {
+  margin-top: -21px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003337}}
+.services .row.first .columns .customer-progression p, .services .row.first .row.second p .customer-progression p, .services .row.second .row.first p .customer-progression p {
+  font-family: "Raleway Medium", arial, sans-serif;
+  display: inline-block;
+  padding: 0 25px;
+  line-height: 1.25em;
+  letter-spacing: 1px;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003350}}
+.services .row.second li img {
   float: left;
+  margin-top: 41px;
+  margin-right: 3%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003356}}
+.services .row.second li.first p {
+  padding-top: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003361}}
+.services .row.second h4 {
+  float: left;
+  width: 30%;
+  color: white;
+  background: #fca049;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  padding: 18px 0 10px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003374}}
+.services .row.second p {
+  padding-top: 14px;
+  color: #a7a7a7;
+  font-size: 18px;
+  font-family: "Raleway Medium", arial, sans-serif;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003384}}
+.services .customer-progress {
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #e3e3e3;
+  background: white;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+  line-height: 1.5em;
+  margin-right: 33px;
+  padding: 10px 0px;
+  margin-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000329}}
+.services .customer-progress h2,
+.services .customer-progress h3 {
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003389}}
+.services .customer-progress h5 {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-family: "Raleway Semi Bold", arial, sans-serif;
+  color: #8b8b8b;
+  line-height: 1.5em;
+  padding: 0 30px 24px 30px;
+  border-bottom: 1px solid #ededed;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003398}}
+.services .customer-progress ul {
+  padding: 18px 30px;
+  color: #a4a4a4;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 13px;
+  text-align: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003404}}
+.services .customer-progress ul li {
+  margin-bottom: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003407}}
+.services .customer-progress ul ul {
+  font-family: "Raleway Medium", arial, sans-serif;
+  padding: 0 0 0 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003413}}
+.services .approach {
+  margin-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003416}}
+.services .approach h4 {
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  margin: 0;
+  text-transform: uppercase;
+  color: #a7a7a7;
+  font-size: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003423}}
+.services .approach h5 {
+  font-family: "Raleway Medium", arial, sans-serif;
+  font-size: 19px;
+  color: #fca049;
+  line-height: 1.5em;
+  margin: 12px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003430}}
+.services .approach p {
+  color: #8b8b8b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003434}}
+.services .approach .contact-us p {
+  font-size: 10px;
+  font-family: "Raleway Medium", arial, sans-serif;
+  width: 33%;
+  float: left;
+  margin-right: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003441}}
+.services .approach .contact-us a {
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #fc8311;
+  color: white;
+  background: #fca049;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  float: left;
+  margin-top: 6px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003451}}
+.about .row {
+  padding: 80px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003454}}
+.about .row.first h4 {
+  font-family: "Raleway Medium", arial, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  line-height: 1.5em;
+  margin-bottom: 40px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003461}}
+.about .row.first p {
+  font-size: 14px;
+  color: #8b8b8b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003465}}
+.about .row.first .centered-image {
+  height: 400px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003468}}
+.about .row.first img {
+  margin-top: -106px;
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  margin-left: -180px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003476}}
+.about .row.last {
+  padding-bottom: 0;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003479}}
+.about .row.last .image-container {
+  position: absolute;
+  left: -80px;
+  bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003485}}
+.about .row.last .columns > p, .about .row.last .services .row.second p > p, .services .row.second .about .row.last p > p {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003489}}
+.about .row.last .callout {
+  padding: 30px 60px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003491}}
+.about .row.last .callout p {
+  font-size: 14px;
+  font-family: "Raleway Semi Bold", arial, sans-serif;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003496}}
+.about .row.last .callout ul {
+  font-size: 12px;
+  color: #8b8b8b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003501}}
+.about .row.last .callout li {
+  margin-bottom: 16px;
+  line-height: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003506}}
+.about .row.last .personal {
+  font-family: "Raleway Semi Bold", arial, sans-serif;
+  width: 66%;
+  margin: 30px auto;
+  color: #3fc5a4;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003520}}
+.contact .row.first {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003523}}
+.contact .row.first .columns, .contact .row.first .services .row.second p, .services .row.second .contact .row.first p {
+  float: none;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003527}}
+.contact .row.first p {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003531}}
+.contact .row.last {
+  padding-bottom: 80px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003535}}
+.contact .contact-links {
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #e3e3e3;
+  background: white;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+  line-height: 1.5em;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000329}}
+.contact .contact-links h2,
+.contact .contact-links h3 {
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003538}}
+.contact .contact-links h3 {
+  margin: 26px 0 20px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003541}}
+.contact .contact-links a {
+  padding: 50px;
+  display: block;
+  text-align: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003546}}
+.contact .contact-links .phone {
+  border-top: 1px solid #ededed;
+  border-bottom: 1px solid #ededed;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003550}}
+.contact .contact-links .icon {
+  width: 32px;
+  margin-right: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003555}}
+.contact .contact-form {
+  background: #e8e8e8;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003558}}
+.contact .contact-form .form-division {
+  width: 50%;
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003561}}
+.contact .contact-form .form-division.last {
+  padding-left: 5%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003566}}
+.contact .contact-form textarea,
+.contact .contact-form input {
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px 0;
+  width: 95%;
+  border: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003572}}
+.contact .contact-form textarea:first-child,
+.contact .contact-form input:first-child {
+  margin-top: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003576}}
+.contact .contact-form input[type=submit] {
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #fc8311;
+  color: white;
+  background: #fca049;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003581}}
+.contact .contact-form .captcha p {
+  font-size: 10px;
+  display: inline;
+  float: left;
+  margin-top: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003587}}
+.contact .contact-form .captcha .captcha-input {
+  margin-top: 12px;
+  float: right;
+  margin-right: 5%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003591}}
+.contact .contact-form .captcha .captcha-input input {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003126}}
-.flex-control-thumbs img {
-  width: 100%;
-  display: block;
-  opacity: .7;
-  cursor: pointer;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003601}}
+.article-date {
+  color: #a7a7a7;
+  font-size: 12px;
+  margin: 12px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003605}}
+.article-date img {
+  width: 16px;
+  margin-right: 4px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003127}}
-.flex-control-thumbs img:hover {
-  opacity: 1;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003611}}
+h2.article-title {
+  font-size: 28px;
+  color: #8b8b8b;
+  line-height: 28px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003128}}
-.flex-control-thumbs .flex-active {
-  opacity: 1;
-  cursor: default;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003619}}
+.blog-list .row .columns, .blog-list .services .row.second p, .services .blog-list .row.second p {
+  float: none;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003624}}
+.blog-list .articles {
+  margin: 48px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003627}}
+.blog-list .articles li:last-child {
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003632}}
+.blog-list .article {
+  text-align: center;
+  padding: 48px 10%;
+  margin-bottom: 32px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003639}}
+.blog-list .content-teaser {
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003642}}
+.blog-list .read-more {
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #fc8311;
+  color: white;
+  background: #fca049;
+  font-family: "Raleway Bold", arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
 }
 
-@media screen and (max-width: 860px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003131}}
-  .flex-direction-nav .flex-prev {
-    opacity: 1;
-    left: 10px;
-  }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_flexslider\.scss}line{font-family:\00003132}}
-  .flex-direction-nav .flex-next {
-    opacity: 1;
-    right: 10px;
-  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003652}}
+.blog-post .row .columns, .blog-post .services .row.second p, .services .blog-post .row.second p {
+  float: none;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003657}}
+.blog-post .article-post {
+  margin: 48px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_skin\.scss}line{font-family:\00003661}}
+.blog-post .article-header {
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 0px #e3e3e3;
+  background: white;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+  line-height: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/schuelke\/sites\/ideationroad\/public\/sass\/partials\/_mixins\.scss}line{font-family:\0000329}}
+.blog-post .article-header h2,
+.blog-post .article-header h3 {
+  font-family: "Air Conditioner Regular", arial, sans-serif;
+  text-transform: uppercase;
 }

@@ -1,3 +1,70 @@
-<section data-ng-controller="IndexController">
-	<h1>This is the home page</h1>
+<section class="home-page" data-ng-init="find()" data-ng-controller="IndexController">
+  <div class="arrow-down">
+    <img src="images/icons/arrow_white_down.png">
+  </div>
+  <div class="incentive">
+    <div class ="row">
+    	<div class="columns small-10">
+        <ul class="small-block-grid-3">
+          <li  data-ng-repeat="incentive in incentives">
+            <div class="article">
+              <div class="incentive-icon"><img ng-src="{{incentive.image}}" ng-style="{{incentive.imageStyle}}"></div>
+              <h3>{{incentive.title}}</h3>
+              <div>{{incentive.content}}</div>
+            <div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="learn-more">
+    <div class="row">
+      <div class="columns small-12">
+        <div class="columns small-8">
+          <h3>Interested in creating huge fans with better delivery on your customer promises?</h3>
+          <p>Learn more about how Ideation Road can help.</p>
+          <a class="button" href="/services">Learn More</a>
+        </div>
+        <div class="columns small-4 logo-container">
+          <img src="images/logos/ideation-road_orange_logo.png">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="articles">
+    <div class="row">
+      <div class="columns small-12">
+        <ul >
+          <li class="columns small-6" data-ng-repeat="article in articles">
+            <div class="article">
+              <h2>{{article.title}}</h2>
+              <span class="date">{{article.created | date:'medium'}}</span>
+              <p class="content">{{article.content}}</p>
+              <a class="button" data-ng-href="#!/blog/{{article._id}}">Read More</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="read-all columns small-12">
+        <a href="/blog">Read All Posts</a>
+        <img src="images/icons/arrow.svg">
+      </div>
+    </div>
+  </div>
+  <div class="philosophy">
+    <div class="row">
+      <div class="columns small-12">
+        <div class="columns small-6">
+          <h2>Our Philosophy</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend, ipsum suscipit scelerisque feugiat, leo odio hendrerit eros, vitae pharetra nisl nibh ut nisi. Nulla ligula ligula, dictum sit amet nisl sit amet, malesuada scelerisque odiote euismod libero.</p>
+          <a class="button" href="/about">Learn More</a>
+        </div>
+        <div class="columns small-6">
+          <div class="image-container">
+            <img src="images/icons/notebook.png">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>

@@ -1,0 +1,18 @@
+<div class="footer" data-ng-controller="HeaderController">
+  <div class="row">
+    <div class="columns small-6">
+      <img src="../images/logos/ideation-road_white_logo.png">
+
+    </div>
+    <ul class="nav columns small-6">
+
+      <li>
+        <a href="/">Home</a>
+      </li>
+
+      <li data-ng-repeat="item in menu" ui-route="/{{item.link}}" ng-class="{active: $uiRoute}">
+          <a href="#!/{{item.link}}">{{item.title}}</a>
+      </li>
+    </ul>
+  </div>
+</div>
